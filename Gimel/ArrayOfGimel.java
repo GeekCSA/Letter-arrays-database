@@ -167,7 +167,7 @@ public class ArrayOfGimel {
 		
 		for (int i = 0; i < G10.length; i++) {
 			for (int j = 0; j < G10.length; j++) {
-				System.out.print(G10[i][j] + ",");
+				System.out.print(G1[i][j] + ",");
 			}
 		}
 	}
