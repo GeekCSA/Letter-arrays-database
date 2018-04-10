@@ -1,4 +1,4 @@
-# Letter-arrays-database יחידת החיבור 49
+# Letter-arrays-database
 
 Each folder contains two files
 
